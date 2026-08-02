@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+source: https://supercede.com
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: "Supercede states it is ISO 27001 certified on its public homepage / security messaging (information security management)."
+  source: https://supercede.com
+- id: oauth2
+  conforms: false
+  evidence: "No public OpenAPI or documented OAuth2 authorization server found (no developer surface published)."
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: "No public API specification available to evaluate error format."
+notes: >-
+  Supercede is a closed B2B SaaS reinsurance intelligence platform with no public
+  developer/API surface at time of enrichment. The only externally verifiable
+  compliance claim is ISO 27001 certification published on the marketing site.
