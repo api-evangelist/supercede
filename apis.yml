@@ -65,6 +65,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Plans
+  url: plans/supercede-plans-pricing.yml
 - type: Website
   url: https://supercede.com
 - type: Blog
