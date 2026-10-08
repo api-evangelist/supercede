@@ -1,0 +1,23 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://supercede.com/pricing/
+sources:
+- https://supercede.com/pricing/
+- https://supercede.com/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: Pricing page shows no numeric prices; directs visitors to a qualification form and demo booking.
+  States pricing is based on annual reinsurance transaction volume, with no commission, sharing, or underwriter
+  fees.
+plan_count: 0
+plans: []
